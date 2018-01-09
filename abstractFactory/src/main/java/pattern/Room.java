@@ -3,7 +3,7 @@ package pattern;
 import pattern.MapSite;
 import utils.Direction;
 
-public abstract class Room extends MapSite{
+public class Room extends MapSite{
 
 	private int roomNumber;
 	private MapSite[] sides;
@@ -12,7 +12,7 @@ public abstract class Room extends MapSite{
 		this.roomNumber = roomNumber;
 	}
 
-	public abstract void enter();
+	public void enter(){};
 
 	public void setSide(Direction direction,MapSite mapSite){}
 
