@@ -3,7 +3,7 @@ package builder;
 import model.House;
 import model.Floor;
 import model.Walls;
-import model.roof;
+import model.Roof;
 
 public abstract class HouseBuilder{
 	protected House house;

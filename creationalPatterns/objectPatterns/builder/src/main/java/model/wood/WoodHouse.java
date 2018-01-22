@@ -1,8 +1,10 @@
-package model;
+package model.wood;
+
+import model.House;
 
 public class WoodHouse extends House{
 	
 	public String getRepresentation(){
-		return "Finished building a wood house";
+		return "Building a wood house";
 	}
 }

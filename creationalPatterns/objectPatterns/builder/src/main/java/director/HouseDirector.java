@@ -1,5 +1,8 @@
 package director;
 
+import model.House;
+import builder.HouseBuilder;
+
 public class HouseDirector{
 	public House constructHouse(HouseBuilder builder){
 		

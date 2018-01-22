@@ -1,5 +1,5 @@
 package model;
 
 public interface Walls{
-	public string getRepresentation();
+	public String getRepresentation();
 }

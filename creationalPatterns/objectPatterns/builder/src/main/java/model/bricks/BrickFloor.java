@@ -1,4 +1,6 @@
-package model;
+package model.bricks;
+
+import model.Floor;
 
 public class BrickFloor implements Floor{
 	

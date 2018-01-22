@@ -1,4 +1,6 @@
-package model;
+package model.wood;
+
+import model.Floor;
 
 public class WoodFloor implements Floor{
 	

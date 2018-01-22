@@ -1,4 +1,6 @@
-package model;
+package model.wood;
+
+import model.Walls;
 
 public class WoodWalls implements Walls{
 	public String getRepresentation(){

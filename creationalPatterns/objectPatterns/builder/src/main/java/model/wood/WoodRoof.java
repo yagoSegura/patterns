@@ -1,4 +1,6 @@
-package model;
+package model.wood;
+
+import model.Roof;
 
 public class WoodRoof implements Roof{
 	
