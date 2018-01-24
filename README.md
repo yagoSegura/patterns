@@ -8,7 +8,7 @@ __Guide of creational patterns__
 
    ----------------
 
-       ![Abstract factory UML](https://s11.postimg.org/okmvliygj/Abstract_Factory.gif)
+   ![Abstract factory UML](https://s11.postimg.org/okmvliygj/Abstract_Factory.gif)
 
        *Benefits*
 
@@ -31,7 +31,7 @@ __Guide of creational patterns__
 
     ----------------
 
-       ![Builder UML](http://www.dofactory.com/images/diagrams/net/builder.gif)
+   ![Builder UML](http://www.dofactory.com/images/diagrams/net/builder.gif)
 
        *Benefits*
 
