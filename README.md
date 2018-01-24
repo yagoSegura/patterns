@@ -41,9 +41,10 @@ __Guide of creational patterns__
 
        *Applicable scenarios*
 
-         * The algorithm for creating a complex object needs to be independent of the components that compose
-           the object and how they are assembled 
-         * The construction process is to allow different representations of the constructed object 
+         * The algorithm for creating a complex object needs to be independent 
+           of the components that compose the object and how they are assembled 
+         * The construction process is to allow different representations of the 
+           constructed object 
           
 
 
