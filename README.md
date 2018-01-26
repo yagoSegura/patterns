@@ -50,7 +50,7 @@ __Guide of creational patterns__
 
    -------------------
 
-   ![Factory method](https://upload.wikimedia.org/wikipedia/commons/e/ed/Factory_Method_UML_class_diagram.png)
+   ![Factory method](http://www.dofactory.com/images/diagrams/net/factory.gif)
 
        *Benefits*
 
