@@ -45,7 +45,30 @@ __Guide of creational patterns__
            of the components that compose the object and how they are assembled 
          * The construction process is to allow different representations of the 
            constructed object 
-          
+
+   * **Factory Method**
+
+   -------------------
+
+   ![Factory method](https://upload.wikimedia.org/wikipedia/commons/e/ed/Factory_Method_UML_class_diagram.png)
+
+       *Benefits*
+
+         * It removes the need to bind application-specific classes into the code.The
+           code interacts solely with the resultant interface, so it will work with 
+           any classes that implement that interface
+         * Because creating objects inside a class is more flexible than creating 
+           an object directly, it enables the subclass to provide an extended version
+           of an object
+
+       *Applicable scenarios*
+
+         * A class is not able to anticipate the class of objects it needs to create
+         * A class wants it subclasses to specify the object it instantiates
+         * Classes assign responsability to one of several helper subclasses, and you
+           want to localize the knowledge of which helper subclass is the delegate 
+
+
 
 
 
