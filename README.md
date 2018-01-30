@@ -69,6 +69,27 @@ __Guide of creational patterns__
            want to localize the knowledge of which helper subclass is the delegate 
 
 
+    * **Prototype**
+
+     -------------------
+
+     ![Prototype](https://upload.wikimedia.org/wikipedia/commons/e/e5/Prototype_UML_%28padr%C3%A3o%29.png)
+
+         *Benefits*
+
+           * It lets you add or remove objects at runtime
+           * It lets you specify new objects by varying it's values or structure  
+           * It reduces the need of subclassing
+           * It lets you dynamically configure an application with classes
+
+         *Applicable scenarios*
+
+           * The classes to instantiate are specified at run time
+           * You need to avoid building a class hierarchy of factories that parallels the hierarchy 
+             of objects
+           * Instances of the class have one of only a few different combinations of state 
+
+
 
 
 
