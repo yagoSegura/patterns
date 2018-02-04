@@ -87,7 +87,26 @@ __Guide of creational patterns__
            * The classes to instantiate are specified at run time
            * You need to avoid building a class hierarchy of factories that parallels the hierarchy 
              of objects
-           * Instances of the class have one of only a few different combinations of state 
+           * Instances of the class have one of only a few different combinations of state
+
+
+    * **Singleton**
+
+     -------------------
+
+     ![Singleton](https://upload.wikimedia.org/wikipedia/commons/d/dc/Singleton_pattern_uml.png)
+
+         *Benefits*
+
+           * It controls access to a single instance of the class
+           * It reduces namespace usage  
+           * It permits refinement of operations and representation
+           * It can also permit a variable number of instances
+
+         *Applicable scenarios*
+
+           * The scenario mos appropiate for the Singleton pattern is when a single instance 
+           of a class is needed and must be accesible to clients from a well-known access point
 
 
 
