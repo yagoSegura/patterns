@@ -10,11 +10,11 @@ __Guide of creational patterns__
   details of the concrete class that is to be instantiated are hidden from the calling class
   by an abstract class that knows only about the abstract class or the interface it implements
 
-   * **Abstract factory**
+  * **Abstract factory**
 
-   ----------------
+  ----------------
 
-   ![Abstract factory UML](https://s11.postimg.org/okmvliygj/Abstract_Factory.gif)
+  ![Abstract factory UML](https://s11.postimg.org/okmvliygj/Abstract_Factory.gif)
 
        *Benefits*
 
@@ -33,9 +33,9 @@ __Guide of creational patterns__
          * You want to provide a library of objects that does not show implementations and 
            only reveals interfaces
 
-   * **Builder**
+  * **Builder**
 
-    ----------------
+  ----------------
 
    ![Builder UML](http://www.dofactory.com/images/diagrams/net/builder.gif)
 
