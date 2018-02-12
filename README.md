@@ -2,7 +2,13 @@
 
 __Guide of creational patterns__
 
-* ***Creational patterns***
+* ***GoF Creational patterns***
+-------------------------------
+
+  Creational design patterns are concerned with the way objects are created . These patterns
+  are used when a decision must be made at the time a class is instantiated. Typically, the 
+  details of the concrete class that is to be instantiated are hidden from the calling class
+  by an abstract class that knows only about the abstract class or the interface it implements
 
    * **Abstract factory**
 
@@ -107,6 +113,32 @@ __Guide of creational patterns__
 
            * The scenario mos appropiate for the Singleton pattern is when a single instance 
            of a class is needed and must be accesible to clients from a well-known access point
+
+* *** Gof Structural Design patterns***
+---------------------------------------
+
+  Structural patterns are concerned with composition or the organization of classes and objects , how classes 
+  inherit from each other, and how they're composed from other classes
+
+  * **Adapter**
+
+     -------------------
+
+     ![Adapter](http://www.dofactory.com/images/diagrams/net/adapter.gif)
+
+         *Benefits*
+
+           * It allows two or more previously incompatible objects to interact
+           * It allows reusability of existing functionality  
+
+         *Applicable scenarios*
+
+           * An object needs to utilize an existing class with an incompatible interface
+           * You want to create a reusable class that cooperates with classes that don't 
+             necessarily have compatible interfaces
+           * You need to use several existing subclasses but do not want to adapt their
+             interfaces by subclassing each one
+
 
 
 
