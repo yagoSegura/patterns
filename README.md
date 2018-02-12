@@ -114,6 +114,7 @@ __Guide of creational patterns__
            * The scenario mos appropiate for the Singleton pattern is when a single instance 
            of a class is needed and must be accesible to clients from a well-known access point
 
+
 * *** Gof Structural Design patterns***
 ---------------------------------------
 
