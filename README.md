@@ -115,7 +115,7 @@ __Guide of creational patterns__
            of a class is needed and must be accesible to clients from a well-known access point
 
 
-* *** Gof Structural Design patterns***
+* ***Gof Structural Design patterns***
 ---------------------------------------
 
   Structural patterns are concerned with composition or the organization of classes and objects , how classes 
