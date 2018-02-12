@@ -75,9 +75,9 @@ __Guide of creational patterns__
            want to localize the knowledge of which helper subclass is the delegate 
 
 
-    * **Prototype**
+  * **Prototype**
 
-     -------------------
+  -------------------
 
      ![Prototype](https://upload.wikimedia.org/wikipedia/commons/e/e5/Prototype_UML_%28padr%C3%A3o%29.png)
 
