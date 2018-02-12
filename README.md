@@ -96,9 +96,9 @@ __Guide of creational patterns__
            * Instances of the class have one of only a few different combinations of state
 
 
-    * **Singleton**
+  * **Singleton**
 
-     -------------------
+  -------------------
 
      ![Singleton](https://upload.wikimedia.org/wikipedia/commons/d/dc/Singleton_pattern_uml.png)
 
