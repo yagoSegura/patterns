@@ -79,7 +79,7 @@ __Guide of creational patterns__
 
   -------------------
 
-     ![Prototype](https://upload.wikimedia.org/wikipedia/commons/e/e5/Prototype_UML_%28padr%C3%A3o%29.png)
+  ![Prototype](https://upload.wikimedia.org/wikipedia/commons/e/e5/Prototype_UML_%28padr%C3%A3o%29.png)
 
          *Benefits*
 
@@ -100,7 +100,7 @@ __Guide of creational patterns__
 
   -------------------
 
-     ![Singleton](https://upload.wikimedia.org/wikipedia/commons/d/dc/Singleton_pattern_uml.png)
+  ![Singleton](https://upload.wikimedia.org/wikipedia/commons/d/dc/Singleton_pattern_uml.png)
 
          *Benefits*
 
@@ -125,7 +125,7 @@ __Guide of creational patterns__
 
      -------------------
 
-     ![Adapter](http://www.dofactory.com/images/diagrams/net/adapter.gif)
+  ![Adapter](http://www.dofactory.com/images/diagrams/net/adapter.gif)
 
          *Benefits*
 
@@ -139,6 +139,28 @@ __Guide of creational patterns__
              necessarily have compatible interfaces
            * You need to use several existing subclasses but do not want to adapt their
              interfaces by subclassing each one
+
+  * **Bridge**
+
+     -------------------
+
+  ![Bridge](http://www.dofactory.com/images/diagrams/net/bridge.gif)
+
+         *Benefits*
+
+           * It enables the separation of implementation from the interface
+           * It improves extensibility
+           * It allows the hiding of implementation details from the client
+
+
+         *Applicable scenarios*
+
+           * You want to avoid a permanent binding between the functional abstraction 
+             and it's implementation.
+           * Both the functional abstraction and it's implementation need to be extended
+             using subclasses
+           * Changes to the implementation should not impact the client (not even a recompile)
+
 
 
 
