@@ -162,6 +162,26 @@ __Guide of creational patterns__
            * Changes to the implementation should not impact the client (not even a recompile)
 
 
+  * **Composite**
+
+     -------------------
+
+  ![Composite](https://lh4.googleusercontent.com/-Rko7hT6VnN8/T81u0DnymkI/AAAAAAAAB34/Yt3VYj5fDCg/s646/UML_composite.jpg)
+
+         *Benefits*
+
+           * It defines class hierarchies consisting of primitive and complex objects
+           * It makes it easier for you to add new kinds of components
+           * It provides flexibility of structure with a manageable interface
+
+
+         *Applicable scenarios*
+
+           * You want to represent a full or partial hierarchy of objects
+           * You want clients to be able to ignore the differences between the varying objects in the hierarchy
+           * The structure is dynamic and can have any level of complexity -- for example , using the composite view from the java EE patterns catalog , which is useful for portal applications
+
+
 
 
 
