@@ -166,7 +166,7 @@ __Guide of creational patterns__
 
      -------------------
 
-  ![Composite](https://lh4.googleusercontent.com/-Rko7hT6VnN8/T81u0DnymkI/AAAAAAAAB34/Yt3VYj5fDCg/s646/UML_composite.jpg)
+  ![Composite](https://dofactory.com/images/diagrams/net/composite.gif)
 
          *Benefits*
 
