@@ -178,8 +178,10 @@ __Guide of creational patterns__
          *Applicable scenarios*
 
            * You want to represent a full or partial hierarchy of objects
-           * You want clients to be able to ignore the differences between the varying objects in the hierarchy
-           * The structure is dynamic and can have any level of complexity -- for example , using the composite view from the java EE patterns catalog , which is useful for portal applications
+           * You want clients to be able to ignore the differences between 
+             the varying objects in the hierarchy
+           * The structure is dynamic and can have any level of complexity 
+             -- for example , using the composite view from the java EE patterns catalog , which is useful for portal applications
 
 
 
