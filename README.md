@@ -181,7 +181,8 @@ __Guide of creational patterns__
            * You want clients to be able to ignore the differences between 
              the varying objects in the hierarchy
            * The structure is dynamic and can have any level of complexity 
-             -- for example , using the composite view from the java EE patterns catalog , which is useful for portal applications
+             -- for example , using the composite view from the java EE patterns catalog , 
+             which is useful for portal applications
 
 
 
