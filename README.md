@@ -185,6 +185,31 @@ __Guide of creational patterns__
              which is useful for portal applications
 
 
+  * **Decorator**
+
+     -------------------
+
+  ![Decorator](http://www.dofactory.com/images/diagrams/net/decorator.gif)
+
+         *Benefits*
+
+           * It provides greater flexibility than static inheritance
+           * It avoids the need to place feature-laden classes higher up the hierarchy 
+           * It simplifies coding by allowing you to develop a series of 
+             functionality-targeted classes, instead of coding all of the behaviour 
+             into the object.
+           * It enhances the extensibility of the object, because changes 
+             are made by coding new classes 
+
+         *Applicable scenarios*
+
+           * You want to transparently and dynamically add responsabilities to 
+             objects without affecting other objects
+           * You want to add responsabilities to an object that you may want to 
+             change in the future
+           * Extending functionality by subclassing is no longer practical
+
+
 
 
 
