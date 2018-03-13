@@ -209,6 +209,29 @@ __Guide of creational patterns__
              change in the future
            * Extending functionality by subclassing is no longer practical
 
+  * **Facade**
+
+     -------------------
+
+  ![Facade](http://www.dofactory.com/images/diagrams/net/facade.gif)
+
+         *Benefits*
+
+           * It provides a simpler interface to a complex subsystem without reducing
+             the options provided by the subsystem
+           * It shields clients from the complexity of the subsystem components 
+           * It promotes looser coupling between the subsystem and its clients
+           * It reduces the coupling between subsystems provided that every
+             subsystem uses its own facade pattern and other parts of the 
+             system  use the facade pattern to communicate with the subsystem
+
+         *Applicable scenarios*
+
+           * You need to provide simple interface to a complex subsystem
+           * Several dependencies exist between clients and the implementation 
+             classes of an abstraction
+           * Layering the subsystems is necessary or desired
+
 
 
 
