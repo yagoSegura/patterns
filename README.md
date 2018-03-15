@@ -233,6 +233,26 @@ __Guide of creational patterns__
            * Layering the subsystems is necessary or desired
 
 
+  * **Flyweight**
+
+     -------------------
+
+  ![Flyweight](https://static.dzone.com/dz1/dz-files/flyweight_pattern.png)
+
+         *Benefits*
+
+           * It reduces the number of objects to deal with
+           * It reduces the amount of memory and storage devices required if the 
+             objects are persisted  
+
+         *Applicable scenarios*
+
+           * An application uses a considerable number of objects
+           * The storage costs are high because of the quantity of objects
+           * The application does not depend on object identity
+                
+
+
 
 
 
