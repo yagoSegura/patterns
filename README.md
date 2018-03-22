@@ -250,6 +250,26 @@ __Guide of creational patterns__
            * An application uses a considerable number of objects
            * The storage costs are high because of the quantity of objects
            * The application does not depend on object identity
+
+
+  * **Proxy**
+
+     -------------------
+
+  ![Proxy](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Proxy_pattern_diagram.svg/439px-Proxy_pattern_diagram.svg.png)
+
+         *Benefits*
+
+           * The remote proxy can chield the fact that the implementation
+             resides in another address space
+           * The virtual proxy can perform optimizations - for example,
+             by creating objects in demand  
+
+         *Applicable scenarios*
+
+           * The proxy pattern is appropiate when a more versatile
+             or sophisticated reference to an object, rather than a 
+             simple pointer, is needed
                 
 
 
