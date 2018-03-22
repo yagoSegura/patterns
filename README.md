@@ -260,7 +260,7 @@ __Guide of creational patterns__
 
          *Benefits*
 
-           * The remote proxy can chield the fact that the implementation
+           * The remote proxy can shield the fact that the implementation
              resides in another address space
            * The virtual proxy can perform optimizations - for example,
              by creating objects in demand  
