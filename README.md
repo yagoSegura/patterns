@@ -270,7 +270,34 @@ __Guide of creational patterns__
            * The proxy pattern is appropiate when a more versatile
              or sophisticated reference to an object, rather than a 
              simple pointer, is needed
-                
+
+* ***Gof Behavioural Design patterns***
+---------------------------------------
+
+  Behavioural patterns are concerned with the interaction and responsibility of objects . They
+  help make complex behaviour manageable by specifying the responsibilities of objects and
+  the ways they communicate with each other
+
+  * **Chain of responsibility**
+
+     -------------------
+
+  ![Chain of responsibility](https://www.tutorialspoint.com/design_pattern/images/chain_pattern_uml_diagram.jpg)
+
+         *Benefits*
+
+           * It reduces coupling
+           * It adds flexibility when assigning responsibilities to objects
+           * It allows a set of classes to act as one; events produced in one class
+             can be sent to other handler classes within the composition  
+
+         *Applicable scenarios*
+
+           * More than one object can handle a request , and the handler is unknown
+           * A request is to be issued to one of several objects , and the receiver 
+             is not specified explicitly
+           * The set of objects to handle the request is to be specified dynamically    
+
 
 
 
