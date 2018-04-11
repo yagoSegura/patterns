@@ -298,7 +298,24 @@ __Guide of creational patterns__
              is not specified explicitly
            * The set of objects to handle the request is to be specified dynamically    
 
+* **Command**
 
+     -------------------
+
+  ![Command](http://www.dofactory.com/images/diagrams/net/command.gif)
+
+         *Benefits*
+
+           * It separates the object that invokes the operation from the object 
+             that actually performs the operation
+           * It simplifies adding new commands, because existing classes remain 
+             unchanged
+
+         *Applicable scenarios*
+
+           * You need to parameterize objects according to an action to perform
+           * You create , queue, and execute requests at different times
+           * You need to support rollback, logging, or transaction functionality    
 
 
 
