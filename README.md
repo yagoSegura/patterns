@@ -318,6 +318,22 @@ __Guide of creational patterns__
            * You need to support rollback, logging, or transaction functionality    
 
 
+* **Interpreter**
+
+     -------------------
+
+  ![Interpreter](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Interpreter_UML_class_diagram.svg/536px-Interpreter_UML_class_diagram.svg.png)
+
+         *Benefits*
+
+           * It is easy to change and extend the grammar
+           * Implementing the grammar is straightforward
+
+         *Applicable scenarios*
+
+           * The grammar of the language is not complicated
+           * Efficiency is not a priority
+           
 
 
 
