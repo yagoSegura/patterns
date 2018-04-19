@@ -333,6 +333,26 @@ __Guide of creational patterns__
 
            * The grammar of the language is not complicated
            * Efficiency is not a priority
+
+
+* **Iterator**
+
+     -------------------
+
+  ![Iterator](http://www.dofactory.com/images/diagrams/net/iterator.gif)
+
+         *Benefits*
+
+           * It supports variations in the traversal of a collection
+           * It simplifies the interface to the collection
+
+         *Applicable scenarios*
+
+           * Access to a collection object is required without having to expose
+             it's internal representation
+           * Multiple traversals of objects need to be supported in the collection
+           * A universal interface for traversing different structures 
+             needs to be provided in the collection
            
 
 
