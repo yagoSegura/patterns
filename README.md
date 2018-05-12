@@ -380,6 +380,25 @@ __Guide of creational patterns__
              based systems . The messages themselves are the means by which
              related objects are decoupled 
            
+* **Memento**
+
+     -------------------
+
+  ![Memento](http://www.dofactory.com/images/diagrams/net/memento.gif)
+
+         *Benefits*
+
+           * It preserves encapsulation boundaries
+           * It simplifies the originator
+
+         *Applicable scenarios*
+
+           * A snapshot containing enough information regarding the state of
+             an object can be saved so that it can be restored to the complete
+             state using the snapshot information later
+
+           * Using a direct interface to obtain the state would impose implementation
+             details that would break the rules of encapsulation for the object 
 
 
 
