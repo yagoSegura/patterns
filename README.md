@@ -355,6 +355,31 @@ __Guide of creational patterns__
              needs to be provided in the collection
            
 
+* **Mediator**
+
+     -------------------
+
+  ![Mediator](http://www.dofactory.com/images/diagrams/net/mediator.gif)
+
+         *Benefits*
+
+           * It decouples colleagues
+           * It simplifies object protocols
+           * It centralizes control
+           * The individual components become simpler and much easier to 
+             deal with because they do not need to pass messages to one 
+             another
+           * The components do not need to contain logic to deal with 
+             their intercommunication and are therefore more generic
+
+         *Applicable scenarios*
+
+           * A set of objects communicates in complex but well-defined ways
+           * Custom behaviour distributed between several objects is required
+             without subclassing. It is commonly used structurally in message
+             based systems . The messages themselves are the means by which
+             related objects are decoupled 
+           
 
 
 
