@@ -401,4 +401,24 @@ __Guide of creational patterns__
              details that would break the rules of encapsulation for the object 
 
 
+* **Observer**
+
+     -------------------
+
+  ![Observer](http://www.dofactory.com/images/diagrams/net/observer.gif)
+
+         *Benefits*
+
+           * It abstracts the coupling between the subject and the observer
+           * It provides support for broadcast-type communications
+
+         *Applicable scenarios*
+
+           * A change to an object requires changing other objects, and the number of
+	     objects that need to be changed is unknown
+
+           * An object needs to notify other objects without making any assumptions about
+	     the identity of those objects
+
+
 
