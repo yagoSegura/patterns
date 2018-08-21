@@ -421,4 +421,23 @@ __Guide of creational patterns__
 	     the identity of those objects
 
 
+* **State**
+
+     -------------------
+
+  ![State](https://www.dofactory.com/images/diagrams/net/state.gif)
+
+         *Benefits*
+
+           * It keeps state-specific behavior local and partitions behavior for different states 
+           * It makes any state transition explicit
+
+         *Applicable scenarios*
+
+           * The behavior of an object depends on it's state , and it must be able to 
+	     change it's behavior at run time according to the new state
+
+           * Operations have large , multipart conditional statements that depend of the 
+	     state of the object
+
 
