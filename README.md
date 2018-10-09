@@ -440,4 +440,24 @@ __Guide of creational patterns__
            * Operations have large , multipart conditional statements that depend of the 
 	     state of the object
 
+* **Strategy**
+
+     -------------------
+
+  ![Strategy](https://www.dofactory.com/images/diagrams/net/strategy.gif)
+
+         *Benefits*
+
+           * It provides a substitute to subclassing 
+           * It defines each behaviour within it's own class, eliminating the need for conditional statements
+           * It makes it easier to extend and incorporate new behaviour without changing the application
+
+         *Applicable scenarios*
+
+           * Multiple classes differ only in their behaviours . The servlet API is a classic example of this. 
+
+           * You need different variations of an algorithm
+
+           * An algorithm uses data that is unknown to the client
+
 
