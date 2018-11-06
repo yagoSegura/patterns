@@ -489,7 +489,7 @@ __Guide of creational patterns__
 
            * It simplifies the addition of new operations
 
-	   * It gathers related operations while separating unrelated ones
+	         * It gathers related operations while separating unrelated ones
 
          *Applicable scenarios*
 
@@ -500,8 +500,7 @@ __Guide of creational patterns__
            * Many distinct and unrelated operations need to be performed on objects in a 
 	     structure and there is a need to avoid cluttering the classes with these operations
 
-	   * The classes defining the object structure rarely change but you frequently 
-	     need to define new operations that perform over the structure
+	         * The classes defining the object structure rarely change but you frequently 
+	     need to define new operations that perform over the structure
 
 
-i
