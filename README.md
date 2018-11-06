@@ -459,7 +459,8 @@ __Guide of creational patterns__
            * You need different variations of an algorithm
 
            * An algorithm uses data that is unknown to the client
-* **Template Method*
+
+* **Template Method***
 
      -------------------
 
@@ -478,7 +479,7 @@ __Guide of creational patterns__
 	     avoiding duplication
 
      
-* *Visitor*
+* ***Visitor***
 
      -------------------
 
