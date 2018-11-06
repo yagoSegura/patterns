@@ -459,7 +459,6 @@ __Guide of creational patterns__
            * You need different variations of an algorithm
 
            * An algorithm uses data that is unknown to the client
-
 * **Template Method*
 
      -------------------
@@ -478,11 +477,12 @@ __Guide of creational patterns__
            * Common behaviour amon subclasses should be moved to a single common class, 
 	     avoiding duplication
 
+     
 * *Visitor*
 
      -------------------
 
- ![Visitor]*(https://www.dofactory.com/images/diagrams/net/visitor.gif)
+ ![Visitor](https://www.dofactory.com/images/diagrams/net/visitor.gif)
 
          *Benefits*
 
