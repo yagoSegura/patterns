@@ -460,4 +460,46 @@ __Guide of creational patterns__
 
            * An algorithm uses data that is unknown to the client
 
+* **Template Method*
+
+     -------------------
+
+ ![Template Method](https://www.dofactory.com/images/diagrams/net/template.gif)
+
+         *Benefits*
+
+           * The template method pattern is a very common technique for reusing code 
+
+         *Applicable scenarios*
+
+           * You want to implement the nonvarying parts of an algorithm in a single class
+	     and the varying parts of the algorithm in subclasses
+
+           * Common behaviour amon subclasses should be moved to a single common class, 
+	     avoiding duplication
+
+* *Visitor*
+
+     -------------------
+
+ ![Visitor]*(https://www.dofactory.com/images/diagrams/net/visitor.gif)
+
+         *Benefits*
+
+           * It simplifies the addition of new operations
+
+	   * It gathers related operations while separating unrelated ones
+
+         *Applicable scenarios*
+
+           * An object structure contains many objects with differing interfaces and there
+	     is a need to perform operations on these objects in a way that depends on 
+	     their concrete classes
+
+           * Many distinct and unrelated operations need to be performed on objects in a 
+	     structure and there is a need to avoid cluttering the classes with these operations
+
+	   * The classes defining the object structure rarely change but you frequently 
+	     need to define new operations that perform over the structure
+
 
