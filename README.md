@@ -461,6 +461,7 @@ __Guide of creational patterns__
            * An algorithm uses data that is unknown to the client
 
 * **Template Method**
+
      -------------------
 
  ![Template Method](https://www.dofactory.com/images/diagrams/net/template.gif)
@@ -479,6 +480,7 @@ __Guide of creational patterns__
 
      
 * **Visitor**
+
      -------------------
 
  ![Visitor](https://www.dofactory.com/images/diagrams/net/visitor.gif)
